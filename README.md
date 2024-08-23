@@ -8,8 +8,8 @@ The Lokii Data Analysis Project is a comprehensive case study focused on leverag
 ### Python (Data Cleaning & Preprocessing):
 
 The first phase of the project involves cleaning and preparing the raw dataset using Python. Key tasks include handling missing values, correcting data types, resolving date mismatches, and deduplicating records.
-[Link to Python Notebook] https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/Python-Data-Cleaning
-
+[Link to Python Notebook https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/Python-Data-Cleaning
+]
 ### SQL (Data Analysis):
 
 After preprocessing, SQL is used to perform in-depth data analysis. This includes filtering favorite products by generation, analyzing product ratings, and understanding purchasing behavior across different income groups.

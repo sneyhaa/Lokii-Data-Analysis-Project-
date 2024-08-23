@@ -18,7 +18,8 @@ The Tableau portion of the Lokii Data Analysis Project is centered on creating i
 
 Monitored sales trends over time, identifying peak seasons and underperforming periods.
 Used heat maps to visualize geographic sales distribution, identifying key markets.
-Customer Segmentation Analysis:
+
+[Link to Tableau Dashboard](https://public.tableau.com/app/profile/sneha.karki/viz/RetailClothingDataAnalysis/FinalSalesDashboard)
 
 Showcased RFM (Recency, Frequency, Monetary) analysis results, categorizing customers into segments such as “High-Value,” “At-Risk,” and “Loyal Customers.”
 Interactive features allow users to explore different customer segments and their behavior patterns.

@@ -6,17 +6,11 @@ This segment of the Lokii Data Analysis Project focuses on data cleaning, prepro
 ## Data Structure Overview
 
 The dataset represents retail transactional data taken from Kaggle  for a hypothetical clothing startup, Lokii. It includes comprehensive information about customers, their purchases, and transaction details. The key attributes in the dataset are:
-Customer Information:
-Customer ID, Name, Email, Phone, Address, City, State, Zipcode, Country
-Age, Gender, Income, Customer Segment
-Transaction Details:
-Last Purchase Date, Total Purchases, Amount Spent
-Product Information:
-Product Category, Product Brand, Product Type
-Additional Attributes:
-Feedback, Shipping Method, Payment Method, Order Status
+- Customer Information: Customer ID, Name, Email, Phone, Address, City, State, Zipcode, Country , Age, Gender, Income, Customer Segment
+- Transaction Details: Last Purchase Date, Total Purchases, Amount Spent
+- Product Information: Product Category, Product Brand, Product Type
+- Additional Attributes: Feedback, Shipping Method, Payment Method, Order Status
 <img width="262" alt="Screenshot 2024-08-19 at 2 30 33 PM" src="https://github.com/user-attachments/assets/79eb4b69-0812-431e-bb3b-18688dfe6d16">
-
 
 ## Key Steps in Data Cleaning and Preprocessing
 

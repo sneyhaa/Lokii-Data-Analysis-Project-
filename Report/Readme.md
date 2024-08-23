@@ -7,16 +7,20 @@ This section provides detailed reports and articles documenting the process, ins
 ### Final Project Report:
 
 Content:
+
 Comprehensive summary of the entire project, including data cleaning, SQL analysis, and Tableau visualizations.
 Detailed discussion of the key findings, insights, and recommendations for the hypothetical company, Lokii.
 
-Medium Article:
+### Medium Article:
 
-Title: “A Journey Through Data: One Project, Three Tools, Numerous Insights”
+#### Title: “A Journey Through Data: One Project, Three Tools, Numerous Insights”
+
 Content:
+
 Overview of the project and the inspiration behind it.
 Step-by-step breakdown of the process, including challenges faced and solutions implemented.
 Reflection on the insights gained and how they can be applied in real-world scenarios.
+
 Link: [Medium Article](https://medium.com/@snehakarki.1230/a-journey-through-data-one-project-three-tools-numerous-insights-5dc6df3ebdc7)
 
 ## Conclusion

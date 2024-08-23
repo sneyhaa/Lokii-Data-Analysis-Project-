@@ -8,17 +8,16 @@ The Lokii Data Analysis Project is a comprehensive case study focused on leverag
 ### Python (Data Cleaning & Preprocessing):
 
 The first phase of the project involves cleaning and preparing the raw dataset using Python. Key tasks include handling missing values, correcting data types, resolving date mismatches, and deduplicating records.
-[Link to Python Notebook https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/Python-Data-Cleaning
-]
+[Link to Python Notebook]( https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/Python-Data-Cleaning)
 ### SQL (Data Analysis):
 
 After preprocessing, SQL is used to perform in-depth data analysis. This includes filtering favorite products by generation, analyzing product ratings, and understanding purchasing behavior across different income groups.
-[Link to SQL Queries] https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/SQL-Analysis
+[Link to SQL Queries] (https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/SQL-Analysis(
 
 ### Tableau (Data Visualization):
 
 The final phase of the project involves creating interactive dashboards in Tableau. These visualizations provide a clear and intuitive representation of the data, making it easier to identify trends and make informed decisions.
-[Link to Tableau Dashboards] https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/Tableau-Dashboards
+[Link to Tableau Dashboards] (https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/Tableau-Dashboards)
 
 ### Key Insights & Findings
 
@@ -29,8 +28,8 @@ The final phase of the project involves creating interactive dashboards in Table
 ### Reports & Articles
 In addition to the technical work, the project is accompanied by detailed reports and articles that document the entire process. These resources provide a deeper understanding of the project, from the initial concept to the final insights.
 
-[Link to Final Project Report] https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/Report
-[Link to Medium Article] https://medium.com/@snehakarki.1230/a-journey-through-data-one-project-three-tools-numerous-insights-5dc6df3ebdc7
+[Link to Final Project Report] (https://github.com/sneyhaa/Lokii-Data-Analysis-Project-/tree/main/Report)
+[Link to Medium Article] (https://medium.com/@snehakarki.1230/a-journey-through-data-one-project-three-tools-numerous-insights-5dc6df3ebdc7(
 
 ## Conclusion
 The Lokii Data Analysis Project showcases the power of data when properly cleaned, analyzed, and visualized. By integrating Python, SQL, and Tableau, this project provides a full-spectrum analysis that can be adapted and applied to real-world business scenarios. Whether you’re a data enthusiast, a business strategist, or a beginner in data analysis, this project offers valuable
